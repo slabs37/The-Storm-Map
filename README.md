@@ -1,9 +1,8 @@
 # What is this?
 These are the source files for a Beat Saber custom map made using the Vivify mod.
 
-- [Gameplay Video](https://www.youtube.com/watch?v=5UCZgaodIcA)
-- [Map Download](https://beatsaver.com/maps/539c4)
-- [Song](https://www.youtube.com/watch?v=xFX0mEnkNQ4)
+- [Map Download](https://beatsaver.com/maps/545b4)
+- [Song](https://www.youtube.com/watch?v=BNi9fOjXx-Y)
 
 # Why is it uploaded
 So that others can learn from this map and hopefully fix something or improve in their own Vivify maps.
