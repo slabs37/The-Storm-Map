@@ -1,0 +1,94 @@
+{
+  "_version" : "2.1.0",
+  "_songName" : "The Storm",
+  "_songSubName" : "",
+  "_songAuthorName" : "Yanni",
+  "_levelAuthorName" : "slabs37",
+  "_beatsPerMinute" : 160,
+  "_songTimeOffset" : 0,
+  "_shuffle" : 0,
+  "_shufflePeriod" : 0,
+  "_previewStartTime" : 12,
+  "_previewDuration" : 10,
+  "_songFilename" : "Yanni - The Storm.ogg",
+  "_coverImageFilename" : "Yanni.jpg",
+  "_environmentName" : "DefaultEnvironment",
+  "_allDirectionsEnvironmentName" : "GlassDesertEnvironment",
+  "_environmentNames" : [
+    "DefaultEnvironment"
+  ],
+  "_colorSchemes" : [
+  ],
+  "_difficultyBeatmapSets" : [
+    {
+      "_beatmapCharacteristicName" : "Standard",
+      "_difficultyBeatmaps" : [
+        {
+          "_difficulty" : "Easy",
+          "_difficultyRank" : 1,
+          "_beatmapFilename" : "EasyStandard.dat",
+          "_noteJumpMovementSpeed" : 7,
+          "_noteJumpStartBeatOffset" : 0.19,
+          "_beatmapColorSchemeIdx" : 0,
+          "_environmentNameIdx" : 0
+        },
+        {
+          "_difficulty" : "Normal",
+          "_difficultyRank" : 3,
+          "_beatmapFilename" : "NormalStandard.dat",
+          "_noteJumpMovementSpeed" : 10,
+          "_noteJumpStartBeatOffset" : -1.067,
+          "_beatmapColorSchemeIdx" : 0,
+          "_environmentNameIdx" : 0
+        },
+        {
+          "_difficulty" : "Hard",
+          "_difficultyRank" : 5,
+          "_beatmapFilename" : "HardStandard.dat",
+          "_noteJumpMovementSpeed" : 14,
+          "_noteJumpStartBeatOffset" : 0.095,
+          "_beatmapColorSchemeIdx" : 0,
+          "_environmentNameIdx" : 0,
+          "_customData" : {
+            "_requirements" : [
+              "Noodle Extensions"
+            ]
+          }
+        },
+        {
+          "_difficulty" : "Expert",
+          "_difficultyRank" : 7,
+          "_beatmapFilename" : "ExpertStandard.dat",
+          "_noteJumpMovementSpeed" : 16,
+          "_noteJumpStartBeatOffset" : -0.5,
+          "_beatmapColorSchemeIdx" : 0,
+          "_environmentNameIdx" : 0
+        },
+        {
+          "_difficulty" : "ExpertPlus",
+          "_difficultyRank" : 9,
+          "_beatmapFilename" : "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed" : 16,
+          "_noteJumpStartBeatOffset" : -0.583,
+          "_beatmapColorSchemeIdx" : 0,
+          "_environmentNameIdx" : 0
+        }
+      ]
+    }
+  ],
+  "_customData" : {
+    "_contributors" : [
+      {
+        "_name" : "slabs37",
+        "_role" : "Vivifier, Mapper, Mocapper",
+        "_iconPath" : "slabs37.jpg"
+      }
+    ],
+    "_editors" : {
+      "_lastEditedBy" : "ChroMapper",
+      "ChroMapper" : {
+        "version" : "0.13.892"
+      }
+    }
+  }
+}
